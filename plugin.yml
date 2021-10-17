@@ -1,0 +1,6 @@
+---
+name: Valed
+version: 0.0.1
+main: Marc\Valed\Main
+api: 3.24.0
+...
